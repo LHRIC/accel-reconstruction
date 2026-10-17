@@ -1,0 +1,8 @@
+# regenerable / large
+work/
+models/
+frames/
+audio/
+__pycache__/
+review/*.png
+review/*.jpg
